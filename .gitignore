@@ -32,3 +32,8 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Credentials (API)
+
+Labb_4/app/src/main/java/com/example/labb_4/API_Provider.java
+

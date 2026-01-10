@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Labb_4</string>
+    <string name="household">Household</string>
+    <string name="drinks">Drinks</string>
+    <string name="meats">Meats</string>
+    <string name="dairy">Dairy</string>
+    <string name="categories">Categories</string>
+    <string name="fruits_and_vegetables">Fruits and vegetables</string>
+    <string name="frozen">Frozen</string>
+    <string name="snacks">Snacks</string>
+    <string name="pantry">Pantry</string>
+    <string name="buy">Buy</string>
+    <string name="company">Company</string>
+    <string name="description">Description</string>
+    <string name="_0_00">$0.00</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_name_cart">Product Name</string>
+    <string name="company_cart">Company</string>
+    <string name="_0_00_cart">$0.00</string>
+</resources>
