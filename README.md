@@ -19,5 +19,9 @@ An Android application that allows users to browse and purchase food products. T
 
 ## Screenshots
 
-*(Add screenshots of the app here for reference)*
-![Screenshot of the application](assets/screenshot_1.png)
+<div style="display: flex; justify-content: center;">
+  <img src="assets/screenshot_1.png" alt="Screenshot 1" width="195" style="margin-right: 10px;"/>
+  <img src="assets/screenshot_2.png" alt="Screenshot 2" width="200" style="margin-right: 10px;"/>
+  <img src="assets/screenshot_3.png" alt="Screenshot 3" width="200" style="margin-right: 10px;"/>
+  <img src="assets/screenshot_4.png" alt="Screenshot 4" width="200"/>
+</di
